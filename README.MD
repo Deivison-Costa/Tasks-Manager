@@ -4,8 +4,6 @@
 # Installation and Setup
 ## Clone the repository to your local machine using the following command:
     git clone https://github.com/Deivison-Costa/Task-Manager
-## Install the project and its dependencies in the current directory:
-    npm install tasks-manager-app-0.1.0.tgz
 ## Navigate to the project directory:
     cd tasks-manager-app
 ## Install the required dependencies using npm or yarn:
