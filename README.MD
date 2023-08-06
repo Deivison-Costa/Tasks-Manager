@@ -1,6 +1,10 @@
 # Task Manager Application
 - This is a task manager application built using React.js. The application allows users to manage their tasks by adding new tasks, marking tasks as completed, and deleting tasks. Tasks can be viewed, added, and modified through a user-friendly interface.
 
+![Figure_1](https://github.com/Deivison-Costa/Tasks-Manager/assets/112001225/8545d969-6c40-4a21-996a-e46a9a11407d)
+![Figure_2](https://github.com/Deivison-Costa/Tasks-Manager/assets/112001225/098a71c8-84c5-467b-89a7-9116b982f2f1)
+![Figure_3](https://github.com/Deivison-Costa/Tasks-Manager/assets/112001225/414cf7cc-45ec-494c-bb8f-c80cd3a56e12)
+
 # Installation and Setup
 ## Clone the repository to your local machine using the following command:
     git clone https://github.com/Deivison-Costa/Task-Manager
